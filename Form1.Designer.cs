@@ -64,7 +64,7 @@
             button3.TabIndex = 1;
             button3.Text = "Сохранить";
             button3.UseVisualStyleBackColor = false;
-            button3.Click += сохранитьКакToolStripMenuItem_Click;
+            button3.Click += сохранитьToolStripMenuItem_Click;
 
             // 
             // button2
